@@ -204,7 +204,12 @@ Distributed under the MIT License. See [LICENSE](./MIT_LICENSE.md) for more info
 <!-- CONTACT -->
 ## Contact
 
-Julio Añoveros - [@jubaan](https://www.linkedin.com/in/jubaan) - julio.ab@outlook.com
+**Julio Añoveros** 
+
+- LinkedIn: [@jubaan](https://www.linkedin.com/in/jubaan)
+- GitHub:   [@jubaan](https://www.github.com/jubaan)
+- Twitter:   [@jubaan](https://www.twitter.com/AnoverosJulio)
+- E-mail:   julio.ab@outlook.com
 
 Project Link: [Employee CSV Node](https://github.com/jubaan/epmloyee-csv-node)
 
