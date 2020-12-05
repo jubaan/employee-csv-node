@@ -19,7 +19,7 @@
     <a href="https://github.com/jubaan/employee-csv-node"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jubaan/employee-csv-node">View Demo</a>
+    <a href="https://repl.it/@jubaan/employee-csv-node">View Demo</a>
     ·
     <a href="https://github.com/jubaan/employee-csv-node/issues">Report Bug</a>
     ·
