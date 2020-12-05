@@ -132,7 +132,7 @@ installations.
   - `id`
   - `first_name`
   - `email`
-  -
+  - `ip_address`
 
 - Search for specific user by `ID` number.
   ```sh
@@ -149,7 +149,7 @@ installations.
   }
   ```
 
-- Search for specific user by `user_name`.
+- Search for specific user by `property` value.
   ```sh
   # Input
   node ./bin/search_for Giorgia last_name
@@ -158,7 +158,7 @@ installations.
   { first_name: 'Giorgia', last_name: 'Tyne' }
   ```
 
-- Search for specific User data (more than one argument).
+- Search for specific User data with more than one arguments.
   ```sh
   # Input
   node ./bin/search_for Giorgia last_name email
