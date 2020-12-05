@@ -124,7 +124,7 @@ installations.
 ## Usage
 
 ```sh
-./search_for <ID> <PROPERTY_1> <PROPERTY_2> ...
+node bin/search_for <ID> <PROPERTY_1> <PROPERTY_2> ...
 ```
 
 - The `ID` values goes from `1` to `10`.
