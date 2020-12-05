@@ -57,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+[![Product Name Screen Shot][product-screenshot]](https://repl.it/@jubaan/employee-csv-node)
 
 The project consist on a Node application that reads and outputs data from
 a CSV file that match certain criteria or scenarios.
@@ -76,7 +76,6 @@ Additional features:
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Nodejs](https://nodejs.dev)
 * [JavaScript](https://www.javascript.com)
 
@@ -230,4 +229,4 @@ Project Link: [Employee CSV Node](https://github.com/jubaan/epmloyee-csv-node)
 [license-url]: https://github.com/jubaan/employee-csv-node/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jubaan
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: ./images/screenshot.png
