@@ -100,7 +100,7 @@ installations.
    ```
 2. Change to the newly cloned directory.
    ```sh
-   cd enroute/employee-csv-node
+   cd employee-csv-node/
    ```
 3. Run the next command. See <a href="#usage">Usage</a> to learn how to use it.
    ```sh
