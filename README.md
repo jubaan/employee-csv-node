@@ -218,7 +218,7 @@ Project Link: [Employee CSV Node](https://github.com/jubaan/epmloyee-csv-node)
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Enroute](https://www.enroutesystems.com)
-* Rodrigo Rodriguez | Enroute Systems
+* [Rodrigo Rodriguez](https://github.com/roier-rodriguez) | Enroute Systems
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
