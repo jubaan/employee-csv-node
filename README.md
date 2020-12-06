@@ -14,7 +14,7 @@
   <h3 align="center">Employee CSV Node</h3>
 
   <p align="center">
-    This project is part of the **Enroute | Rockstars G5** apprenticeship 2020 program.
+    This project is part of the <b>Enroute | Rockstars G5</b> apprenticeship program 2020.
     <br />
     <a href="https://github.com/jubaan/employee-csv-node"><strong>Explore the docs »</strong></a>
     <br />
