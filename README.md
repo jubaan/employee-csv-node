@@ -100,31 +100,31 @@ installations.
    ```
 2. Change to the newly cloned directory.
    ```sh
-   cd enroute/employee-csv-node
+   cd employee-csv-node/
    ```
 3. Run the next command. See <a href="#usage">Usage</a> to learn how to use it.
    ```sh
-   node bin/search_for <ID> <PROPERTY_1>
+   node bin/employeeQuery.js <ID> <PROPERTY_1>
    ```
 
 **NOTE**: To run the app as a shell script follow the next steps
 
 1. Change the file permision.
   ```sh
-  chmod +x bin/search_for
+  chmod +x bin/employeeQuery.js
 ```
 
 2. Run the commands wthout `node` and by prepending the `file_name` with `./` 
     (See the `.` dot before the slash `/`)
   ```sh
-  ./bin/search_for <ID> <PROPERTY_1>
+  bin/employeeQuery.js <ID> <PROPERTY_1>
   ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 ```sh
-node bin/search_for <ID> <PROPERTY_1> <PROPERTY_2> ...
+node bin/employeeQuery.js <ID> <PROPERTY_1> <PROPERTY_2> ...
 ```
 
 - The `ID` values goes from `1` to `10`.
@@ -137,7 +137,7 @@ node bin/search_for <ID> <PROPERTY_1> <PROPERTY_2> ...
 - Search for specific user by `ID` number.
   ```sh
   # Input
-  node ./bin/search_for 1
+  node bin/employeeQuery.js 1
 
   # Output
   {
@@ -152,7 +152,7 @@ node bin/search_for <ID> <PROPERTY_1> <PROPERTY_2> ...
 - Search for specific user by `property` value.
   ```sh
   # Input
-  node ./bin/search_for Giorgia last_name
+  node bin/employeeQuery.js Giorgia last_name
 
   # Output 
   { first_name: 'Giorgia', last_name: 'Tyne' }
@@ -161,7 +161,7 @@ node bin/search_for <ID> <PROPERTY_1> <PROPERTY_2> ...
 - Search for specific User data with more than one arguments.
   ```sh
   # Input
-  node ./bin/search_for Giorgia last_name email
+  node bin/employeeQuery.js Giorgia last_name email
 
   # Output 
   {
